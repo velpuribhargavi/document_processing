@@ -1,0 +1,10 @@
+2026-01-19 18:47:40,427 - INFO - Processing: test_report.txt
+2026-01-19 18:47:40,456 - INFO - Processed: test_report.txt | Category: Finance | Status: SUCCESS
+2026-01-19 18:47:40,458 - INFO - Processing: test_resume.pdf
+2026-01-19 18:47:42,316 - INFO - Processed: test_resume.pdf | Category: HR | Status: SUCCESS
+2026-01-19 18:47:42,319 - INFO - Processing: hr_policy.docx
+2026-01-19 18:47:43,952 - INFO - Processed: hr_policy.docx | Category: HR | Status: SUCCESS
+2026-01-19 18:47:43,954 - INFO - Processing: test_invoice.docx
+2026-01-19 18:47:44,047 - INFO - Processed: test_invoice.docx | Category: Finance | Status: SUCCESS
+2026-01-19 18:47:44,070 - INFO - Processing: test_data.xlsx
+2026-01-19 18:47:46,498 - INFO - Processed: test_data.xlsx | Category: Operations | Status: SUCCESS

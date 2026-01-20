@@ -1,0 +1,10 @@
+2026-01-15 19:51:52,529 - INFO - Processing: test_report.txt
+2026-01-15 19:51:52,530 - ERROR - Empty or invalid content in: test_report.txt
+2026-01-15 19:51:52,530 - INFO - Processing: test_resume.pdf
+2026-01-15 19:51:52,535 - ERROR - Empty or invalid content in: test_resume.pdf
+2026-01-15 19:51:52,535 - INFO - Processing: hr_policy.docx
+2026-01-15 19:51:52,537 - ERROR - Empty or invalid content in: hr_policy.docx
+2026-01-15 19:51:52,537 - INFO - Processing: test_invoice.docx
+2026-01-15 19:51:52,539 - ERROR - Empty or invalid content in: test_invoice.docx
+2026-01-15 19:51:52,540 - INFO - Processing: test_data.xlsx
+2026-01-15 19:51:52,541 - ERROR - Empty or invalid content in: test_data.xlsx

@@ -1,0 +1,11 @@
+OPERATIONS INVENTORY REPORT
+Item,Quantity,Value,Reorder Level
+Product A,1500,45,000,500
+Product B,2300,92,000,800
+Product C,1800,72,000,600
+Shipping Cost: 15,000 per month
+Warehouse Capacity: 10,000 units
+Delivery Time: 2-3 business days
+Supplier: Global Logistics Inc.
+Order Date: December 15, 2025
+Delivery Date: December 20, 2025
