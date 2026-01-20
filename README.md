@@ -56,6 +56,7 @@ python-docx - Word document handling
 openpyxl - Excel file processing
 
 reportlab - PDF report generation
+
 After running:
 
 Summaries: output/summaries/
