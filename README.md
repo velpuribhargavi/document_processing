@@ -99,19 +99,24 @@ For documents not matching any category rule
 --------------------------------------------------------------------------
 
 Found 5 document(s) to process
+
 ------------------------------------------------------------
+
 2026-01-20 21:24:28,989 - INFO - Processing: test_report.txt
 2026-01-20 21:24:29,003 - INFO - Processed: test_report.txt | Category: Finance | Status: SUCCESS
 ✓ Processed: test_report.txt
   Category: Finance
   Summary saved: output\summaries\test_report_summary.txt
   PDF report: output\reports\test_report_report.pdf
+  
 --------------------------------------------------
+
 2026-01-20 21:24:29,005 - INFO - Processing: test_resume.pdf
 2026-01-20 21:24:29,175 - INFO - Processed: test_resume.pdf | Category: HR | Status: SUCCESS
 ✓ Processed: test_resume.pdf
   Category: HR
   Summary saved: output\summaries\test_resume_summary.txt  
-  PDF report: output\reports\test_resume_report.pdf        
+  PDF report: output\reports\test_resume_report.pdf 
+  
 --------------------------------------------------
 
