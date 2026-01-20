@@ -39,16 +39,16 @@ Python 3.7 or higher
 ------------------------------------------------------------------------
 ## Installation
 
-**Install dependencies:
-**
+Install dependencies:
+
 pip install pdfplumber python-docx openpyxl reportlab
 
-**Run the System:
-**
+Run the System:
+
 python main.py
 
-**Packages:
-**
+Packages:
+
 pdfplumber - PDF processing
 
 python-docx - Word document handling
@@ -56,8 +56,8 @@ python-docx - Word document handling
 openpyxl - Excel file processing
 
 reportlab - PDF report generation
-**After running:
-**
+After running:
+
 Summaries: output/summaries/
 
 Categories: output/categories/
