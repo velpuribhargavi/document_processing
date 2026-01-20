@@ -39,15 +39,16 @@ Python 3.7 or higher
 ------------------------------------------------------------------------
 ## Installation
 
-Install dependencies:
-
+**Install dependencies:
+**
 pip install pdfplumber python-docx openpyxl reportlab
 
-Run the System:
-
+**Run the System:
+**
 python main.py
 
-Packages:
+**Packages:
+**
 pdfplumber - PDF processing
 
 python-docx - Word document handling
@@ -55,8 +56,8 @@ python-docx - Word document handling
 openpyxl - Excel file processing
 
 reportlab - PDF report generation
-After running:
-
+**After running:
+**
 Summaries: output/summaries/
 
 Categories: output/categories/
@@ -66,4 +67,30 @@ PDF Reports: output/reports/
 Logs: logs/document_processor.log
 
 --------------------------------------------------------------------------
+# Impact
+Time saved on manual document processing
 
+Improved document organization and retrieval
+
+Enhanced reporting capabilities
+
+Better compliance through audit trails
+
+
+--------------------------------------------------------------------------
+
+# Categorization Rules
+HR Category
+Keywords: employee, hire, termination, resume, interview, salary, benefits, training, recruitment, performance, review, policy, vacation, compensation
+
+Finance Category
+Keywords: invoice, budget, expense, revenue, profit, loss, tax, audit, financial, payment, receipt, balance, statement, forecast, investment
+
+Operations Category
+Keywords: inventory, supply, logistics, production, manufacturing, quality, control, process, delivery, shipping, warehouse, maintenance, workflow
+
+Legal Category
+Keywords: contract, agreement, law, legal, compliance, regulation, liability, intellectual, property, copyright, lawsuit, litigation, attorney
+
+Unknown Category
+For documents not matching any category rule
