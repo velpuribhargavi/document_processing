@@ -97,6 +97,7 @@ Unknown Category
 For documents not matching any category rule
 
 --------------------------------------------------------------------------
+#sample output
 
 Found 5 document(s) to process
 
